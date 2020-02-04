@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/nlp-ensae/nlp-ensae.github.io.git
+	branch = master
